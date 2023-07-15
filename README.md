@@ -1,2 +1,2 @@
 # IBM-Quantum-Challenge-Spring-2023-solutions
-Here are my solutions for the IBM Quantum Challenge Spring 2023.
+This repository contains the solutions for the 5 virtual labs of IBM Quantum Challenge: Spring 2023.
